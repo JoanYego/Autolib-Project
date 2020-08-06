@@ -23,11 +23,21 @@ This project can be easily accessed and replicated via Google Colab Notebook.
 
 If Using Google Colab, import Python libraries:
 
-i) Pandas
+  i) Pandas
 
-ii) Numpy
+  ii) Numpy
 
-Also load sqlite database
+  iii) Seaborn
+
+  iv) Matplotlib
+
+### Data Relevance
+
+Data was acquired from opendataparis.com. The data shows real-time information for Autolib Stations for time period April 1 to April 9 2018.
+
+License : Open Database License
+
+
 
 ### Contributors
 
